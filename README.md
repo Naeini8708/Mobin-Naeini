@@ -18,6 +18,6 @@ Interested in the big world of programming
 
 📫 ** Ways of communication **:
 
-[Id](naeini_mobin)
-[Id](@Naeini_8708)
-[Email](mobin.naeiniwork@gmail.com)
+Instagram: naeini_mobin
+Telegram: @Naeini_8708
+Email: mobin.naeiniwork@gmail.com
