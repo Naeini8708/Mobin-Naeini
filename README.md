@@ -18,7 +18,7 @@ Interested in the big world of programming
 
 ---
 
-📫 ** Ways of communication **:
+## Ways of communication:
 
 Instagram: naeini_mobin
 <br>
