@@ -1,7 +1,9 @@
 # Hello my name is Mobin
 
 👨🏻‍💻 Junior Front-End Developer
+<br>
 👨🏻‍🎓 11th year student majoring in Networking and Software
+<br>
 Interested in the big world of programming
 
 ---
@@ -19,5 +21,7 @@ Interested in the big world of programming
 📫 ** Ways of communication **:
 
 Instagram: naeini_mobin
+<br>
 Telegram: @Naeini_8708
+<br>
 Email: mobin.naeiniwork@gmail.com
